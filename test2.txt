@@ -1,0 +1,31 @@
+Student Transcript for John Doe, jkl567, @99029832
+
+Semester Fall 2020
+   CS 3424 Systems Programming          B+
+   CS 3733 Operating Systems            C-
+   CS 4853 Adv. Systems Programming     D
+   MAT 1013 Calculus I                  B-
+Semester grade point average:           2.18
+
+X Academic probation active
+X Academic holds: 3
+
+2.18... 3.14,2.546
+A-c+  AB
+a b c A F E f+ a+b- A-c+ a,c,d,f+,a-, 2.15, f+, a+b-
+a+b=c
+/abc123/abc123/abc123 abc123,abc123,abc123
+abc123 abc123 abc123 abc132 zyx243
+abc123jkl jklabc123 dasdabc123asdasd 123abc132123 caezyx243
+@42042069 @42042069 @42042069 @42042069 @42042069 @42042069 abc@42042069 @42042069abc abc@42042069abc
+
+
+Dear Dylan Gonzales,
+Regarding your transcript from UTSA, here is some important information:
+Your utsaID is poo420, with a banner ID of @42042069
+
+You managed to get an A and A+ in Data structures and Differential Equations, but when it came t    o Freshmen Composition you got a D.
+
+Overall your cumulative GPA is 3.18
+ 
+X Keep in mind that you need to keep your GPA above a 3.00 to maintain a scholarship
